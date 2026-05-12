@@ -4,17 +4,15 @@
  
 I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, and deploying real-time computer vision systems.
  
-My goal is to develop practical, deployable AI solutions that bridge research and real-world impact.
- 
 ## Technical Skills
  
 - **Languages:** Python
 - **Deep Learning:** PyTorch, TensorFlow, Keras — including from-scratch implementation
-- **Computer Vision:** OpenCV, YOLOv8, TensorFlow Hub, CLIP, BLIP
+- **Computer Vision:** OpenCV, YOLOv8, TensorFlow Hub, CLIP, BLIP, SSD MobileNet
 - **Generative AI:** Diffusion Models (DDPM), GANs, Visual Language Models
 - **NLP:** HuggingFace Transformers, BERT, ViT, LangChain
 - **Reinforcement Learning:** Q-Learning, ε-Greedy, Gymnasium (CartPole)
-- **AI Agents:** Perception-Reasoning-Action (PRA) loop, Agent Frameworks, YOLOv8 tracking
+- **AI Agents:** PRA loop, Agent Frameworks, YOLOv8 tracking
 - **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
 ---
  
@@ -22,16 +20,26 @@ My goal is to develop practical, deployable AI solutions that bridge research an
  
 ### Computer Vision — [ITAI 1378](https://eagleonline.hccs.edu/courses/317901)
  
-| Project | Description |
+**Labs**
+ 
+| Lab | Description |
 |---|---|
-| [L02 — Image Processing Lab](./CompVision_ITAI1378/L02-Image-Processing-Lab/) | OpenCV fundamentals — pixels, filtering, color spaces |
-| [L03 — Classical ML for Vision](./CompVision_ITAI1378/L03-Classical-ML-Vision/) | Feature engineering + Scikit-learn classifiers on image data |
-| [L05 — CNN Chihuahua vs Muffin](./CompVision_ITAI1378/CNN-Chihuahua-vs-Muffin/) | CNN image classifier built with PyTorch |
-| [L06 — Object Detection](./CompVision_ITAI1378/Lab06-Object-Detection-Transfer-Learning/) | Transfer learning with TensorFlow Hub pre-trained detectors |
-| [L08 — Visual Language Models](./CompVision_ITAI1378/L08-Visual-Language-Models/) | Zero-shot classification, image captioning & VQA with CLIP and BLIP |
-| [L09 — AI Agent with CV](./CompVision_ITAI1378/Module09-AI-Agents-CV/) | Visual monitoring agent using YOLOv8 + PRA loop |
-| [L10 — Agent Framework](./CompVision_ITAI1378/L10-Agent-Framework/) | Structured agent with tools, memory, and workflow |
-| [L11 — Object Tracking & Zone Analytics](./CompVision_ITAI1378/L11-Object-Tracking-Zone-Analytics/) | Real-time tracking with persistent IDs and zone-based event detection |
+| [L02 — Image Processing](./CompVision_ITAI1378/Labs/L02-Image-Processing/) | OpenCV fundamentals — pixels, filtering, color spaces · includes journal |
+| [L03 — Classical ML Vision](./CompVision_ITAI1378/Labs/L03-Classical-ML-Vision/) | Feature engineering + Scikit-learn · GitHub/Colab setup |
+| [L04 — Neural Network Workshop](./CompVision_ITAI1378/Labs/L04-Neural-Network-Workshop/) | Feedforward NN with PyTorch — reflective journal |
+| [L05 — CNN Chihuahua vs Muffin](./CompVision_ITAI1378/Labs/L05-CNN-Chihuahua-vs-Muffin/) | CNN classifier in PyTorch · includes journal |
+| [L06 — Object Detection](./CompVision_ITAI1378/Labs/L06-Object-Detection/) | SSD MobileNet · IoU · Pascal VOC · 13-page journal |
+| [L08 — Visual Language Models](./CompVision_ITAI1378/Labs/L08-Visual-Language-Models/) | CLIP (zero-shot) + BLIP (captioning & VQA) |
+| [L09 — AI Agent with CV](./CompVision_ITAI1378/Labs/L09-AI-Agent-CV/) | YOLOv8 + PRA loop visual monitoring agent |
+| [L10 — Agent Framework](./CompVision_ITAI1378/Labs/L10-Agent-Framework/) | Tools, memory, and workflow from scratch |
+| [L11 — Object Tracking](./CompVision_ITAI1378/Labs/L11-Object-Tracking/) | Persistent IDs + zone-based event detection |
+ 
+**Assignments**
+ 
+| Assignment | Description |
+|---|---|
+| [A01 — Real-World CV Essay](./CompVision_ITAI1378/Assignments/A01-Real-World-CV-Essay/) | Self-driving cars — sensor fusion and ethical challenges |
+| [A02 — Image Enhancement Skit](./CompVision_ITAI1378/Assignments/A02-Image-Enhancement-Skit/) | Creative quest demonstrating histogram eq, sharpening, noise reduction |
  
 > 📁 [View full Computer Vision course folder](./CompVision_ITAI1378/)
  
@@ -43,20 +51,20 @@ My goal is to develop practical, deployable AI solutions that bridge research an
  
 | Lab | Description |
 |---|---|
-| [Module 02 — Neural Network Foundations](./DeepLearning_ITAI2376/Labs/Module02-Neural-Network-Foundations/) | Build NNs from scratch in NumPy — then PyTorch vs TensorFlow side-by-side |
-| [Module 03 — CNN Puppy or Bagel](./DeepLearning_ITAI2376/Labs/Module03-CNN-Puppy-or-Bagel/) | CNN image classifier with data augmentation built in Keras |
+| [Module 02 — NN Foundations](./DeepLearning_ITAI2376/Labs/Module02-Neural-Network-Foundations/) | Build NNs from scratch · PyTorch vs TensorFlow |
+| [Module 03 — CNN Puppy or Bagel](./DeepLearning_ITAI2376/Labs/Module03-CNN-Puppy-or-Bagel/) | CNN with data augmentation in Keras |
 | [L05 — RNNs vs Transformers vs ViT](./DeepLearning_ITAI2376/Labs/L05-RNNs-Transformers-ViT/) | Architectural evolution: RNNs → BERT → Vision Transformer |
-| [L08 — Diffusion Image Generation](./DeepLearning_ITAI2376/Labs/L08-Diffusion-Image-Generation/) | DDPM pipeline with U-Net on CelebA — includes written analysis report |
-| [L09 — RL Foundations: CartPole](./DeepLearning_ITAI2376/Labs/L09-RL-CartPole/) | Teach an agent to balance a pole via Q-learning and reward signals |
+| [L08 — Diffusion Image Generation](./DeepLearning_ITAI2376/Labs/L08-Diffusion-Image-Generation/) | DDPM + U-Net on CelebA · includes analysis report |
+| [L09 — RL Foundations: CartPole](./DeepLearning_ITAI2376/Labs/L09-RL-CartPole/) | Q-learning agent via reward signals |
  
 **Assignments**
  
 | Assignment | Description |
 |---|---|
 | [A01 — HuggingFace vs GPT-4 API](./DeepLearning_ITAI2376/Assignments/A01-HuggingFace-vs-GPT4/) | Comparative analysis: open-source vs proprietary LLM deployment |
-| [A02 — Neural Network Zoo: GANs](./DeepLearning_ITAI2376/Assignments/A02-GAN-Octopus/) | GAN Octopus presentation + written reflection on NN architectures |
-| [A03 — Backpropagation for Kids](./DeepLearning_ITAI2376/Assignments/A03-Backpropagation-for-Kids/) | Group presentation explaining backprop to a non-technical audience |
-| [A04 — Arrival (2016) & NLP Limits](./DeepLearning_ITAI2376/Assignments/A04-Arrival-NLP-Analysis/) | Using the film's alien language to expose real NLP architecture gaps |
+| [A02 — Neural Network Zoo: GANs](./DeepLearning_ITAI2376/Assignments/A02-GAN-Octopus/) | GAN Octopus presentation + written reflection |
+| [A03 — Backpropagation for Kids](./DeepLearning_ITAI2376/Assignments/A03-Backpropagation-for-Kids/) | Group presentation for non-technical audience |
+| [A04 — Arrival (2016) & NLP Limits](./DeepLearning_ITAI2376/Assignments/A04-Arrival-NLP-Analysis/) | Alien language as a worst-case NLP scenario |
  
 > 📁 [View full Deep Learning course folder](./DeepLearning_ITAI2376/)
  
@@ -64,21 +72,11 @@ My goal is to develop practical, deployable AI solutions that bridge research an
  
 ### Natural Language Processing — [ITAI 2373](https://eagleonline.hccs.edu/courses/320853)
  
-| Project | Description |
-|---|---|
-| [Sentiment Analysis Tool](link-to-project) | Analyzed customer reviews using NLP classification |
-| [Chatbot Implementation](link-to-project) | Built a conversational AI agent |
- 
 > 📁 [View full NLP course folder](./NLP_ITAI2373/) *(coming soon)*
  
 ---
  
 ### Data Science & AI — [ITAI 2377](https://eagleonline.hccs.edu/courses/315700)
- 
-| Project | Description |
-|---|---|
-| [Agentic Systems Study Guide](link-to-project) | Data requirements for agentic AI systems |
-| [AI Facial Recognition Report](link-to-project) | Argumentative report on CV surveillance ethics using Microsoft's Responsible AI framework |
  
 > 📁 [View full Data Science course folder](./DataScience_ITAI2377/) *(coming soon)*
  
