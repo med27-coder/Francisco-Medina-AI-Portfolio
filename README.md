@@ -2,7 +2,7 @@
  
 ## About Me
  
-I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, and deploying real-time computer vision systems.
+I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, real-time CV systems, and LLM-powered AI agents.
  
 ## Technical Skills
  
@@ -10,9 +10,9 @@ I am an Applied AI student at Houston Community College, specializing in compute
 - **Deep Learning:** PyTorch, TensorFlow, Keras — including from-scratch implementation
 - **Computer Vision:** OpenCV, YOLOv8, TensorFlow Hub, CLIP, BLIP, SSD MobileNet
 - **Generative AI:** Diffusion Models (DDPM), GANs, Visual Language Models
-- **NLP:** HuggingFace Transformers, BERT, ViT, LangChain
-- **Reinforcement Learning:** Q-Learning, ε-Greedy, Gymnasium (CartPole)
-- **AI Agents:** PRA loop, Agent Frameworks, YOLOv8 tracking
+- **NLP:** HuggingFace Transformers, LangChain, LangGraph, Gemini API, TF-IDF, GloVe
+- **AI Agents:** PRA loop, LangGraph StateGraph, Ollama (local LLM), Zone Analytics
+- **Reinforcement Learning:** Q-Learning, ε-Greedy, Gymnasium
 - **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
 ---
  
@@ -24,9 +24,9 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 | Lab | Description |
 |---|---|
-| [L02 — Image Processing](./CompVision_ITAI1378/Labs/L02-Image-Processing/) | OpenCV fundamentals — pixels, filtering, color spaces · includes journal |
-| [L03 — Classical ML Vision](./CompVision_ITAI1378/Labs/L03-Classical-ML-Vision/) | Feature engineering + Scikit-learn · GitHub/Colab setup |
-| [L04 — Neural Network Workshop](./CompVision_ITAI1378/Labs/L04-Neural-Network-Workshop/) | Feedforward NN with PyTorch — reflective journal |
+| [L02 — Image Processing](./CompVision_ITAI1378/Labs/L02-Image-Processing/) | OpenCV · filtering · histogram equalization · journal |
+| [L03 — Classical ML Vision](./CompVision_ITAI1378/Labs/L03-Classical-ML-Vision/) | Feature engineering + Scikit-learn classifiers |
+| [L04 — Neural Network Workshop](./CompVision_ITAI1378/Labs/L04-Neural-Network-Workshop/) | Feedforward NN with PyTorch · reflective journal |
 | [L05 — CNN Chihuahua vs Muffin](./CompVision_ITAI1378/Labs/L05-CNN-Chihuahua-vs-Muffin/) | CNN classifier in PyTorch · includes journal |
 | [L06 — Object Detection](./CompVision_ITAI1378/Labs/L06-Object-Detection/) | SSD MobileNet · IoU · Pascal VOC · 13-page journal |
 | [L08 — Visual Language Models](./CompVision_ITAI1378/Labs/L08-Visual-Language-Models/) | CLIP (zero-shot) + BLIP (captioning & VQA) |
@@ -38,8 +38,8 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 | Assignment | Description |
 |---|---|
-| [A01 — Real-World CV Essay](./CompVision_ITAI1378/Assignments/A01-Real-World-CV-Essay/) | Self-driving cars — sensor fusion and ethical challenges |
-| [A02 — Image Enhancement Skit](./CompVision_ITAI1378/Assignments/A02-Image-Enhancement-Skit/) | Creative quest demonstrating histogram eq, sharpening, noise reduction |
+| [A01 — Real-World CV Essay](./CompVision_ITAI1378/Assignments/A01-Real-World-CV-Essay/) | Self-driving cars · sensor fusion · ethical challenges |
+| [A02 — Image Enhancement Skit](./CompVision_ITAI1378/Assignments/A02-Image-Enhancement-Skit/) | Creative quest: histogram eq, sharpening, noise reduction |
  
 > 📁 [View full Computer Vision course folder](./CompVision_ITAI1378/)
  
@@ -61,7 +61,7 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 | Assignment | Description |
 |---|---|
-| [A01 — HuggingFace vs GPT-4 API](./DeepLearning_ITAI2376/Assignments/A01-HuggingFace-vs-GPT4/) | Comparative analysis: open-source vs proprietary LLM deployment |
+| [A01 — HuggingFace vs GPT-4 API](./DeepLearning_ITAI2376/Assignments/A01-HuggingFace-vs-GPT4/) | Comparative analysis: open-source vs proprietary LLM |
 | [A02 — Neural Network Zoo: GANs](./DeepLearning_ITAI2376/Assignments/A02-GAN-Octopus/) | GAN Octopus presentation + written reflection |
 | [A03 — Backpropagation for Kids](./DeepLearning_ITAI2376/Assignments/A03-Backpropagation-for-Kids/) | Group presentation for non-technical audience |
 | [A04 — Arrival (2016) & NLP Limits](./DeepLearning_ITAI2376/Assignments/A04-Arrival-NLP-Analysis/) | Alien language as a worst-case NLP scenario |
@@ -72,7 +72,21 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 ### Natural Language Processing — [ITAI 2373](https://eagleonline.hccs.edu/courses/320853)
  
-> 📁 [View full NLP course folder](./NLP_ITAI2373/) *(coming soon)*
+**Labs**
+ 
+| Lab | Description |
+|---|---|
+| [Mod08 — StudyBot Agent](./NLP_ITAI2373/Labs/Mod08-StudyBot-Agent/) | LangChain + LangGraph agent · tools · memory · Ollama |
+ 
+**Assignments**
+ 
+| Assignment | Description |
+|---|---|
+| [Mod02 — Text Preprocessing](./NLP_ITAI2373/Assignments/Mod02-Text-Preprocessing/) | Cleaning · TF-IDF · GloVe word embeddings |
+| [Mod04 — Prompt Engineering → PRD](./NLP_ITAI2373/Assignments/Mod04-Prompt-Engineering-PRD/) | Zero-shot → few-shot → CoT → persona+constraints |
+| [MD13 — Privacy & AI Surveillance](./NLP_ITAI2373/Assignments/MD13-Privacy-AI-Surveillance/) | Argumentative essay · facial recognition · PEEL · MLA 9 |
+ 
+> 📁 [View full NLP course folder](./NLP_ITAI2373/)
  
 ---
  
