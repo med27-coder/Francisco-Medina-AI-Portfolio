@@ -12,7 +12,7 @@ I am an Applied AI student at Houston Community College, specializing in compute
 - **Generative AI:** Diffusion Models (DDPM), GANs, Visual Language Models
 - **NLP:** HuggingFace Transformers, LangChain, LangGraph, Gemini API, TF-IDF, GloVe
 - **AI Agents:** PRA loop, LangGraph StateGraph, Ollama (local LLM), Zone Analytics
-- **Reinforcement Learning:** Q-Learning, ε-Greedy, Gymnasium
+- **Data Science:** Pandas, Scikit-learn, Feature Engineering, Data Leakage Detection
 - **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
 ---
  
@@ -45,6 +45,26 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 ---
  
+### Natural Language Processing — [ITAI 2373](https://eagleonline.hccs.edu/courses/320853)
+ 
+**Labs**
+ 
+| Lab | Description |
+|---|---|
+| [Mod08 — StudyBot Agent](./NLP_ITAI2373/Labs/Mod08-StudyBot-Agent/) | LangChain + LangGraph agent · tools · memory · Ollama |
+ 
+**Assignments**
+ 
+| Assignment | Description |
+|---|---|
+| [Mod02 — Text Preprocessing](./NLP_ITAI2373/Assignments/Mod02-Text-Preprocessing/) | Cleaning · TF-IDF · GloVe word embeddings |
+| [Mod04 — Prompt Engineering → PRD](./NLP_ITAI2373/Assignments/Mod04-Prompt-Engineering-PRD/) | Zero-shot → few-shot → CoT → persona+constraints |
+| [MD13 — Privacy & AI Surveillance](./NLP_ITAI2373/Assignments/MD13-Privacy-AI-Surveillance/) | Argumentative essay · facial recognition · PEEL · MLA 9 |
+ 
+> 📁 [View full NLP course folder](./NLP_ITAI2373/)
+ 
+---
+ 
 ### Deep Learning — [ITAI 2376](https://eagleonline.hccs.edu/courses/325583)
  
 **Labs**
@@ -70,29 +90,18 @@ I am an Applied AI student at Houston Community College, specializing in compute
  
 ---
  
-### Natural Language Processing — [ITAI 2373](https://eagleonline.hccs.edu/courses/320853)
+### Data Science & AI — [ITAI 2377](https://eagleonline.hccs.edu/courses/315700)
  
 **Labs**
  
 | Lab | Description |
 |---|---|
-| [Mod08 — StudyBot Agent](./NLP_ITAI2373/Labs/Mod08-StudyBot-Agent/) | LangChain + LangGraph agent · tools · memory · Ollama |
+| [L02 — Data Exploration](./DataScience_ITAI2377/Labs/L02-Data-Exploration/) | Pandas EDA · GitHub datasets · summary statistics |
+| [L04 — DL Data Preprocessing](./DataScience_ITAI2377/Labs/L04-DL-Data-Preprocessing/) | Images · text · time series · video · audio · journal |
+| [L05 — Preprocessing for GenAI](./DataScience_ITAI2377/Labs/L05-Preprocessing-for-GenAI/) | NLTK · GloVe · DistilBERT embeddings · BBC corpus · journal |
+| [L08 — Video Game Sales Prediction](./DataScience_ITAI2377/Labs/L08-Video-Game-Sales-Prediction/) | Decision Tree · data leakage fix · class imbalance · journal |
  
-**Assignments**
- 
-| Assignment | Description |
-|---|---|
-| [Mod02 — Text Preprocessing](./NLP_ITAI2373/Assignments/Mod02-Text-Preprocessing/) | Cleaning · TF-IDF · GloVe word embeddings |
-| [Mod04 — Prompt Engineering → PRD](./NLP_ITAI2373/Assignments/Mod04-Prompt-Engineering-PRD/) | Zero-shot → few-shot → CoT → persona+constraints |
-| [MD13 — Privacy & AI Surveillance](./NLP_ITAI2373/Assignments/MD13-Privacy-AI-Surveillance/) | Argumentative essay · facial recognition · PEEL · MLA 9 |
- 
-> 📁 [View full NLP course folder](./NLP_ITAI2373/)
- 
----
- 
-### Data Science & AI — [ITAI 2377](https://eagleonline.hccs.edu/courses/315700)
- 
-> 📁 [View full Data Science course folder](./DataScience_ITAI2377/) *(coming soon)*
+> 📁 [View full Data Science course folder](./DataScience_ITAI2377/)
  
 ---
  
