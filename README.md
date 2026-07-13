@@ -2,18 +2,19 @@
  
 ## About Me
  
-I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, real-time CV systems, and LLM-powered AI agents.
+I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, real-time CV systems, LLM-powered AI agents, and cross-industry AI case studies with original solution proposals.
  
 ## Technical Skills
  
-- **Languages:** Python
+- **Languages:** Python, SQL (Oracle)
 - **Deep Learning:** PyTorch, TensorFlow, Keras — including from-scratch implementation
 - **Computer Vision:** OpenCV, YOLOv8, TensorFlow Hub, CLIP, BLIP, SSD MobileNet
 - **Generative AI:** Diffusion Models (DDPM), GANs, Visual Language Models
 - **NLP:** HuggingFace Transformers, LangChain, LangGraph, Gemini API, TF-IDF, GloVe
-- **AI Agents:** PRA loop, LangGraph StateGraph, Ollama (local LLM), Zone Analytics
+- **AI Agents:** PRA loop, LangGraph StateGraph, Ollama (local LLM), Claude API, RAG pipelines, Zone Analytics
 - **Data Science:** Pandas, Scikit-learn, Feature Engineering, Data Leakage Detection
-- **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
+- **Research & Analysis:** Industry AI case studies, MLA 9 / APA technical writing, data visualization (matplotlib)
+- **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub, Gradio
 ---
  
 ## Courses & Projects
@@ -102,6 +103,41 @@ I am an Applied AI student at Houston Community College, specializing in compute
 | [L08 — Video Game Sales Prediction](./DataScience_ITAI2377/Labs/L08-Video-Game-Sales-Prediction/) | Decision Tree · data leakage fix · class imbalance · journal |
  
 > 📁 [View full Data Science course folder](./DataScience_ITAI2377/)
+ 
+---
+ 
+### AI Applications — [ITAI 2372](https://eagleonline.hccs.edu/courses/332490)
+ 
+Cross-industry study of applied AI: ten industry reports, three formal case studies with original solution proposals, two team projects, and an employer-facing portfolio presentation. All written work is fully cited (MLA 9 / APA) and delivered as formatted, professional documents.
+ 
+**Case Studies** — each diagnoses a documented real-world problem and proposes a targeted AI solution
+ 
+| Case Study | Description |
+|---|---|
+| [A10 — AI in Government](./AIApplications_ITAI2372/02-Case-Studies/) | HMRC Connect fraud detection (£4.6B recovered in 2024/25) · proposed a Proactive Benefits Enrollment System redirecting the same data-matching toward £24B in unclaimed UK benefits |
+| [A11 — AI in Manufacturing](./AIApplications_ITAI2372/02-Case-Studies/) | Siemens Amberg (99.9990% quality) via a 2026 *Information Systems Journal* field study · proposed an 8D-Aligned Explainable AI Quality Assistant targeting the documented worker-trust gap |
+| [A12 — AGI in Transportation](./AIApplications_ITAI2372/02-Case-Studies/) | Narrow AI's long-tail edge-case wall vs. DeepMind's AGI framework · proposed an AGI-Orchestrated Logistics System reasoning across trucking, warehousing, and supply chains |
+ 
+**Projects**
+ 
+| Project | Description |
+|---|---|
+| [Stock Sentiment Tracker](./AIApplications_ITAI2372/03-Projects/) | Python + Claude API sentiment analysis · MSFT/GOOGL/AAPL/TSLA/META · Colab notebook |
+| [A04 — PayPal Fraud Detection](./AIApplications_ITAI2372/03-Projects/) | Group Anubis case study · APA · 9 references · 6 data visuals |
+| [Paris Travel Planner](./AIApplications_ITAI2372/03-Projects/) | Team midterm design doc · LangChain ReAct-loop travel agent architecture |
+ 
+**Industry Reports**
+ 
+| Assignment | Description |
+|---|---|
+| [A02 — AI Advancements & Regulation](./AIApplications_ITAI2372/01-Assignments/) | EU AI Act vs. Australia · AGI and space exploration trends |
+| [A03 — Healthcare & Agriculture](./AIApplications_ITAI2372/01-Assignments/) | Retinal diagnostics · precision agriculture forecasting |
+| [A06 — Media & Entertainment](./AIApplications_ITAI2372/01-Assignments/) | AI music generation lab (MakeSong) · deepfakes · ethics |
+| [A07 — AI & Blockchain](./AIApplications_ITAI2372/01-Assignments/) | Consensus mechanisms · AI-in-blockchain integration |
+| [A08 — AI in Retail](./AIApplications_ITAI2372/01-Assignments/) | Computer vision · conversational AI · AI search intent |
+| [A09 — Generative AI Case Study](./AIApplications_ITAI2372/01-Assignments/) | ChatGPT · model distillation · data privacy · 27 citations |
+ 
+> 📁 [View full AI Applications course folder](./AIApplications_ITAI2372/)
  
 ---
  
