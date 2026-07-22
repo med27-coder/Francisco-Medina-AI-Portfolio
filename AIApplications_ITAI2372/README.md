@@ -6,7 +6,7 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 ---
 
-## 📂 Folder Guide
+## Folder Guide
 
 | Folder | Contents |
 |---|---|
@@ -16,7 +16,7 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 ---
 
-## 🏆 Case Studies
+## Case Studies
 
 | Case Study | Description |
 |---|---|
@@ -27,7 +27,7 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 ---
 
-## 👥 Projects
+## Projects
 
 | Project | Description |
 |---|---|
@@ -35,20 +35,20 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 ---
 
-## 📄 Industry Reports
+## Industry Reports
 
 | Report | Description |
 |---|---|
 | [A02 — AI Advancements & Regulatory Comparisons](./Industry-Reports/A02_AI_Advancements_Medina.pdf) | EU AI Act vs. Australia's National AI Plan, agentic AI, sparse attention, AI in space exploration |
 | [A03 — Healthcare & Agriculture](./Industry-Reports/A03_Healthcare_Agriculture_Medina.pdf) | Retinal diagnostics (Google DeepMind, IDx-DR), AI drug discovery (AlphaFold, Insilico), precision agriculture, bias and privacy concerns |
-| [A03 — Smart Cities: Healthcare & Agriculture](./Industry-Reports/A03_SmartCities_Healthcare_Agriculture_Medina.pdf) | Companion analysis pairing healthcare diagnostics with precision agriculture and smart-city infrastructure |
+| [A03 — Smart Cities: Healthcare & Agriculture](./Industry-Reports/A03_SmartCities_Healthcare_Agriculture_Medina.pdf) | Alternate draft covering the same healthcare diagnostics and precision agriculture material as the main A03 report |
 | [A06 — AI in Media & Entertainment](./Industry-Reports/A06_ClassNotes_AI_Media_Entertainment_Medina.docx) | AI music generation lab (MakeSong), deepfakes, generative media ethics |
 | [A07 — AI & Blockchain Integration](./Industry-Reports/A07_ClassNotes_Blockchain_Integration_Medina.docx) | Consensus mechanisms, AI-in-blockchain integration |
 | [A08 — AI in Retail](./Industry-Reports/A08_ClassNotes_AIRetail_Medina.docx) | Computer vision, conversational AI, personalization, AI search intent |
 
 ---
 
-## 🔗 Key Resources Used
+## Key Resources Used
 
 - [DeepMind — Levels of AGI framework](https://arxiv.org/abs/2311.02462)
 - [Van Giffen et al. — The Culture Clash of AI Adoption in Lean Quality Management (ISJ 2026)](https://doi.org/10.1111/isj.70006)
@@ -59,9 +59,9 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 ---
 
-## 🛠 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
-`Python` · `Claude API` · `LangChain / LangGraph` · `Gemini Vision API` · `Oracle SQL` · `MLA 9 research writing` · `matplotlib data visualization` · `Google Colab`
+`AI case study research & analysis` · `Comparative AI policy & regulatory analysis` · `Ethical AI evaluation (bias, transparency, privacy)` · `Cross-industry AI application analysis` · `Original AI solution design` · `MLA 9 technical research writing`
 
 ---
 
