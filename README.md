@@ -1,11 +1,11 @@
 # Francisco Medina — Applied AI Portfolio
- 
+
 ## About Me
- 
+
 I am an Applied AI student at Houston Community College, specializing in computer vision, deep learning, and natural language processing. This portfolio documents my hands-on journey through the AI & Robotics program — from building neural networks by hand to training diffusion models, reinforcement learning agents, real-time CV systems, LLM-powered AI agents, and cross-industry AI case studies with original solution proposals.
- 
+
 ## Technical Skills
- 
+
 - **Languages:** Python, SQL (Oracle)
 - **Deep Learning:** PyTorch, TensorFlow, Keras — including from-scratch implementation
 - **Computer Vision:** OpenCV, YOLOv8, TensorFlow Hub, CLIP, BLIP, SSD MobileNet
@@ -15,14 +15,15 @@ I am an Applied AI student at Houston Community College, specializing in compute
 - **Data Science:** Pandas, Scikit-learn, Feature Engineering, Data Leakage Detection
 - **Research & Analysis:** Industry AI case studies, MLA 9 / APA technical writing, data visualization (matplotlib)
 - **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub, Gradio
+
 ---
- 
+
 ## Courses & Projects
- 
+
 ### Computer Vision — [ITAI 1378](https://eagleonline.hccs.edu/courses/317901)
- 
+
 **Labs**
- 
+
 | Lab | Description |
 |---|---|
 | [L02 — Image Processing](./CompVision_ITAI1378/Labs/L02-Image-Processing/) | OpenCV · filtering · histogram equalization · journal |
@@ -34,77 +35,76 @@ I am an Applied AI student at Houston Community College, specializing in compute
 | [L09 — AI Agent with CV](./CompVision_ITAI1378/Labs/L09-AI-Agent-CV/) | YOLOv8 + PRA loop visual monitoring agent |
 | [L10 — Agent Framework](./CompVision_ITAI1378/Labs/L10-Agent-Framework/) | Tools, memory, and workflow from scratch |
 | [L11 — Object Tracking](./CompVision_ITAI1378/Labs/L11-Object-Tracking/) | Persistent IDs + zone-based event detection |
- 
+
 **Assignments**
- 
+
 | Assignment | Description |
 |---|---|
 | [A01 — Real-World CV Essay](./CompVision_ITAI1378/Assignments/A01-Real-World-CV-Essay/) | Self-driving cars · sensor fusion · ethical challenges |
 | [A02 — Image Enhancement Skit](./CompVision_ITAI1378/Assignments/A02-Image-Enhancement-Skit/) | Creative quest: histogram eq, sharpening, noise reduction |
- 
+
 > 📁 [View full Computer Vision course folder](./CompVision_ITAI1378/)
- 
+
 ---
- 
+
 ### AI Applications — [ITAI 2372](https://eagleonline.hccs.edu/courses/332490)
- 
-Cross-industry study of applied AI: ten industry reports, three formal case studies with original solution proposals, two team projects, and an employer-facing portfolio presentation. All written work is fully cited (MLA 9 / APA) and delivered as formatted, professional documents.
- 
+
+Cross-industry study of applied AI: four in-depth case studies with original solution proposals, a group fraud-detection project, and six industry/topic reports. All written work is fully cited (MLA 9) and delivered as formatted, professional documents.
+
 **Case Studies** — each diagnoses a documented real-world problem and proposes a targeted AI solution
- 
+
 | Case Study | Description |
 |---|---|
-| [A10 — AI in Government](./AIApplications_ITAI2372/02-Case-Studies/) | HMRC Connect fraud detection (£4.6B recovered in 2024/25) · proposed a Proactive Benefits Enrollment System redirecting the same data-matching toward £24B in unclaimed UK benefits |
-| [A11 — AI in Manufacturing](./AIApplications_ITAI2372/02-Case-Studies/) | Siemens Amberg (99.9990% quality) via a 2026 *Information Systems Journal* field study · proposed an 8D-Aligned Explainable AI Quality Assistant targeting the documented worker-trust gap |
-| [A12 — AGI in Transportation](./AIApplications_ITAI2372/02-Case-Studies/) | Narrow AI's long-tail edge-case wall vs. DeepMind's AGI framework · proposed an AGI-Orchestrated Logistics System reasoning across trucking, warehousing, and supply chains |
- 
+| [AI in Government](./AIApplications_ITAI2372/Case-Studies/AI_in_Government_CaseStudy_Medina.docx) | HMRC Connect fraud detection (£4.6B recovered in 2024/25) and the London ULEZ camera-vandalism backlash · proposed a Proactive Benefits Enrollment System redirecting the same data-matching toward £24B in unclaimed UK benefits · illustrated with the video game *Orwell: Keeping an Eye on You* |
+| [AI in Manufacturing](./AIApplications_ITAI2372/Case-Studies/AI_in_Manufacturing_CaseStudy_Medina.docx) | Siemens Amberg (99.9990% quality) via a 2026 *Information Systems Journal* field study, contrasted with Tesla's 2018 over-automation admission · proposed an 8D-Aligned Explainable AI Quality Assistant targeting the documented worker-trust gap |
+| [AGI in Transportation](./AIApplications_ITAI2372/Case-Studies/AGI_in_Transportation_CaseStudy_Medina.docx) | Narrow AI's long-tail edge-case wall vs. DeepMind's AGI framework · proposed an AGI-Orchestrated Logistics System reasoning across trucking, warehousing, and supply chains |
+| [Ethical & Societal Implications of AI](./AIApplications_ITAI2372/Case-Studies/A09_Ethical_Societal_Implications_Medina.docx) | Facial recognition and predictive policing bias (ProPublica's COMPAS investigation, Detroit's 96% error-rate admission), analyzed through the Ubisoft *Watch Dogs* series as an extended narrative lens |
+
 **Projects**
- 
+
 | Project | Description |
 |---|---|
-| [Stock Sentiment Tracker](./AIApplications_ITAI2372/03-Projects/) | Python + Claude API sentiment analysis · MSFT/GOOGL/AAPL/TSLA/META · Colab notebook |
-| [A04 — PayPal Fraud Detection](./AIApplications_ITAI2372/03-Projects/) | Group Anubis case study · APA · 9 references · 6 data visuals |
-| [Paris Travel Planner](./AIApplications_ITAI2372/03-Projects/) | Team midterm design doc · LangChain ReAct-loop travel agent architecture |
- 
+| [PayPal Fraud Detection (Group Anubis)](./AIApplications_ITAI2372/Projects/A04_Anubis_Francisco_Medina_ITAI2372.pdf) | Group case study on PayPal's fraud detection pipeline: deep learning ensembles, graph neural networks, behavioral biometrics · APA, 8 references |
+
 **Industry Reports**
- 
+
 | Assignment | Description |
 |---|---|
-| [A02 — AI Advancements & Regulation](./AIApplications_ITAI2372/01-Assignments/) | EU AI Act vs. Australia · AGI and space exploration trends |
-| [A03 — Healthcare & Agriculture](./AIApplications_ITAI2372/01-Assignments/) | Retinal diagnostics · precision agriculture forecasting |
-| [A06 — Media & Entertainment](./AIApplications_ITAI2372/01-Assignments/) | AI music generation lab (MakeSong) · deepfakes · ethics |
-| [A07 — AI & Blockchain](./AIApplications_ITAI2372/01-Assignments/) | Consensus mechanisms · AI-in-blockchain integration |
-| [A08 — AI in Retail](./AIApplications_ITAI2372/01-Assignments/) | Computer vision · conversational AI · AI search intent |
-| [A09 — Generative AI Case Study](./AIApplications_ITAI2372/01-Assignments/) | ChatGPT · model distillation · data privacy · 27 citations |
- 
+| [A02 — AI Advancements & Regulation](./AIApplications_ITAI2372/Industry-Reports/A02_AI_Advancements_Medina.pdf) | EU AI Act vs. Australia · agentic AI, sparse attention, AI in space exploration |
+| [A03 — Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_Healthcare_Agriculture_Medina.pdf) | Retinal diagnostics (DeepMind, IDx-DR) · AI drug discovery (AlphaFold, Insilico) · precision agriculture |
+| [A03 — Smart Cities: Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_SmartCities_Healthcare_Agriculture_Medina.pdf) | Companion analysis pairing healthcare diagnostics with precision agriculture and smart-city infrastructure |
+| [A06 — Media & Entertainment](./AIApplications_ITAI2372/Industry-Reports/A06_ClassNotes_AI_Media_Entertainment_Medina.docx) | AI music generation lab (MakeSong) · deepfakes · ethics |
+| [A07 — AI & Blockchain](./AIApplications_ITAI2372/Industry-Reports/A07_ClassNotes_Blockchain_Integration_Medina.docx) | Consensus mechanisms · AI-in-blockchain integration |
+| [A08 — AI in Retail](./AIApplications_ITAI2372/Industry-Reports/A08_ClassNotes_AIRetail_Medina.docx) | Computer vision · conversational AI · AI search intent |
+
 > 📁 [View full AI Applications course folder](./AIApplications_ITAI2372/)
- 
+
 ---
- 
+
 ### Natural Language Processing — [ITAI 2373](https://eagleonline.hccs.edu/courses/320853)
- 
+
 **Labs**
- 
+
 | Lab | Description |
 |---|---|
 | [Mod08 — StudyBot Agent](./NLP_ITAI2373/Labs/Mod08-StudyBot-Agent/) | LangChain + LangGraph agent · tools · memory · Ollama |
- 
+
 **Assignments**
- 
+
 | Assignment | Description |
 |---|---|
 | [Mod02 — Text Preprocessing](./NLP_ITAI2373/Assignments/Mod02-Text-Preprocessing/) | Cleaning · TF-IDF · GloVe word embeddings |
 | [Mod04 — Prompt Engineering → PRD](./NLP_ITAI2373/Assignments/Mod04-Prompt-Engineering-PRD/) | Zero-shot → few-shot → CoT → persona+constraints |
 | [MD13 — Privacy & AI Surveillance](./NLP_ITAI2373/Assignments/MD13-Privacy-AI-Surveillance/) | Argumentative essay · facial recognition · PEEL · MLA 9 |
- 
+
 > 📁 [View full NLP course folder](./NLP_ITAI2373/)
- 
+
 ---
- 
+
 ### Deep Learning — [ITAI 2376](https://eagleonline.hccs.edu/courses/325583)
- 
+
 **Labs**
- 
+
 | Lab | Description |
 |---|---|
 | [Module 02 — NN Foundations](./DeepLearning_ITAI2376/Labs/Module02-Neural-Network-Foundations/) | Build NNs from scratch · PyTorch vs TensorFlow |
@@ -112,43 +112,37 @@ Cross-industry study of applied AI: ten industry reports, three formal case stud
 | [L05 — RNNs vs Transformers vs ViT](./DeepLearning_ITAI2376/Labs/L05-RNNs-Transformers-ViT/) | Architectural evolution: RNNs → BERT → Vision Transformer |
 | [L08 — Diffusion Image Generation](./DeepLearning_ITAI2376/Labs/L08-Diffusion-Image-Generation/) | DDPM + U-Net on CelebA · includes analysis report |
 | [L09 — RL Foundations: CartPole](./DeepLearning_ITAI2376/Labs/L09-RL-CartPole/) | Q-learning agent via reward signals |
- 
+
 **Assignments**
- 
+
 | Assignment | Description |
 |---|---|
 | [A01 — HuggingFace vs GPT-4 API](./DeepLearning_ITAI2376/Assignments/A01-HuggingFace-vs-GPT4/) | Comparative analysis: open-source vs proprietary LLM |
 | [A02 — Neural Network Zoo: GANs](./DeepLearning_ITAI2376/Assignments/A02-GAN-Octopus/) | GAN Octopus presentation + written reflection |
 | [A03 — Backpropagation for Kids](./DeepLearning_ITAI2376/Assignments/A03-Backpropagation-for-Kids/) | Group presentation for non-technical audience |
 | [A04 — Arrival (2016) & NLP Limits](./DeepLearning_ITAI2376/Assignments/A04-Arrival-NLP-Analysis/) | Alien language as a worst-case NLP scenario |
- 
+
 > 📁 [View full Deep Learning course folder](./DeepLearning_ITAI2376/)
- 
+
 ---
- 
+
 ### Data Science & AI — [ITAI 2377](https://eagleonline.hccs.edu/courses/315700)
- 
+
 **Labs**
- 
+
 | Lab | Description |
 |---|---|
 | [L02 — Data Exploration](./DataScience_ITAI2377/Labs/L02-Data-Exploration/) | Pandas EDA · GitHub datasets · summary statistics |
 | [L04 — DL Data Preprocessing](./DataScience_ITAI2377/Labs/L04-DL-Data-Preprocessing/) | Images · text · time series · video · audio · journal |
 | [L05 — Preprocessing for GenAI](./DataScience_ITAI2377/Labs/L05-Preprocessing-for-GenAI/) | NLTK · GloVe · DistilBERT embeddings · BBC corpus · journal |
 | [L08 — Video Game Sales Prediction](./DataScience_ITAI2377/Labs/L08-Video-Game-Sales-Prediction/) | Decision Tree · data leakage fix · class imbalance · journal |
- 
+
 > 📁 [View full Data Science course folder](./DataScience_ITAI2377/)
- 
+
 ---
- 
+
 ## Contact
- 
-- **Email:** franciscomed927@gmail.com
-- **LinkedIn:** [Francisco Medina](https://www.linkedin.com/in/francisco-medina-9b015b380/)
-- **GitHub:** [github.com/med27-coder](https://github.com/med27-coder)
- 
-## Contact
- 
+
 - **Email:** franciscomed927@gmail.com
 - **LinkedIn:** [Francisco Medina](https://www.linkedin.com/in/francisco-medina-9b015b380/)
 - **GitHub:** [github.com/med27-coder](https://github.com/med27-coder)
