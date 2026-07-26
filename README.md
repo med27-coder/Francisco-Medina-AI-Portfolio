@@ -64,7 +64,7 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 | Project | Description |
 |---|---|
-| [PayPal Fraud Detection (Group Anubis)](./AIApplications_ITAI2372/Projects/A04_Anubis_Francisco_Medina_ITAI2372.pdf) | Group case study on PayPal's fraud detection pipeline: deep learning ensembles, graph neural networks, behavioral biometrics · 9 references |
+| [PayPal Fraud Detection (Group Anubis)](./AIApplications_ITAI2372/Projects/A04_Anubis_Francisco_Medina_ITAI2372.docx) | Group case study on PayPal's fraud detection pipeline: deep learning ensembles, graph neural networks, behavioral biometrics · 9 references |
 
 **Guided Module Assignments** — structured research-and-reflection format scored against a fixed rubric
 
