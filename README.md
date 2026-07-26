@@ -49,7 +49,7 @@ I am an Applied AI student at Houston Community College, specializing in compute
 
 ### AI Applications — [ITAI 2372](https://eagleonline.hccs.edu/courses/332490)
 
-Cross-industry study of applied AI: four in-depth case studies with original solution proposals, a group fraud-detection project, and six industry/topic reports. All written work is fully cited (MLA 9) and delivered as formatted, professional documents.
+Cross-industry study of applied AI: four in-depth case studies with original solution proposals, a group fraud-detection project, two guided module assignments, and six industry/topic reports (plus a combined master reference for the healthcare and agriculture material). All written work is fully cited (MLA 9) and delivered as formatted, professional documents.
 
 **Case Studies** — each diagnoses a documented real-world problem and proposes a targeted AI solution
 
@@ -64,17 +64,25 @@ Cross-industry study of applied AI: four in-depth case studies with original sol
 
 | Project | Description |
 |---|---|
-| [PayPal Fraud Detection (Group Anubis)](./AIApplications_ITAI2372/Projects/A04_Anubis_Francisco_Medina_ITAI2372.pdf) | Group case study on PayPal's fraud detection pipeline: deep learning ensembles, graph neural networks, behavioral biometrics · APA, 8 references |
+| [PayPal Fraud Detection (Group Anubis)](./AIApplications_ITAI2372/Projects/A04_Anubis_Francisco_Medina_ITAI2372.pdf) | Group case study on PayPal's fraud detection pipeline: deep learning ensembles, graph neural networks, behavioral biometrics · 9 references |
+
+**Guided Module Assignments** — structured research-and-reflection format scored against a fixed rubric
+
+| Assignment | Description |
+|---|---|
+| [M03 #1 — Healthcare: Retina AI](./AIApplications_ITAI2372/Guided-Assignments/M03_Assignment1_Healthcare_Retina_AI_Medina.docx) | Google's diabetic retinopathy model (128,000 images, 54 ophthalmologists) · training bias · patient journey diagram · ethics reflection on data ownership and equity |
+| [M03 #2 — Agriculture: Weather AI](./AIApplications_ITAI2372/Guided-Assignments/M03_Assignment2_Agriculture_Weather_AI_Medina.docx) | Hyperlocal AI forecasting for a 400-acre Texas wheat farm · frost-risk cost/benefit analysis · 14-day farm action plan · digital divide in agriculture |
 
 **Industry Reports**
 
 | Assignment | Description |
 |---|---|
-| [A02 — AI Advancements & Regulation](./AIApplications_ITAI2372/Industry-Reports/A02_AI_Advancements_Medina.pdf) | EU AI Act vs. Australia · agentic AI, sparse attention, AI in space exploration |
-| [A03 — Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_Healthcare_Agriculture_Medina.pdf) | Retinal diagnostics (DeepMind, IDx-DR) · AI drug discovery (AlphaFold, Insilico) · precision agriculture |
-| [A03 — Smart Cities: Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_SmartCities_Healthcare_Agriculture_Medina.pdf) | Companion analysis pairing healthcare diagnostics with precision agriculture and smart-city infrastructure |
-| [A06 — Media & Entertainment](./AIApplications_ITAI2372/Industry-Reports/A06_ClassNotes_AI_Media_Entertainment_Medina.docx) | AI music generation lab (MakeSong) · deepfakes · ethics |
-| [A07 — AI & Blockchain](./AIApplications_ITAI2372/Industry-Reports/A07_ClassNotes_Blockchain_Integration_Medina.docx) | Consensus mechanisms · AI-in-blockchain integration |
+| [A02 — AI Advancements & Regulation](./AIApplications_ITAI2372/Industry-Reports/A02_AI_Advancements_Medina.docx) | EU AI Act vs. Australia · agentic AI, sparse attention, AI in space exploration |
+| [A03 — Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_Healthcare_Agriculture_Medina.docx) | Retinal diagnostics (DeepMind, IDx-DR) · AI drug discovery (AlphaFold, Insilico) · precision agriculture |
+| [A03 — Smart Cities: Healthcare & Agriculture](./AIApplications_ITAI2372/Industry-Reports/A03_SmartCities_Healthcare_Agriculture_Medina.docx) | Alternate draft covering the same healthcare diagnostics and precision agriculture material as the main A03 report |
+| [A03 — Master Reference (Combined)](./AIApplications_ITAI2372/Industry-Reports/A03_Master_Healthcare_Agriculture_Medina.docx) | Comprehensive synthesis of both A03 reports into one document; 17 sources, zero overlap between the originals |
+| [A06 — Media & Entertainment](./AIApplications_ITAI2372/Industry-Reports/A06_ClassNotes_AI_Media_Entertainment_Medina.docx) | AI music generation lab (MakeSong) · deepfakes · digital resurrection ethics |
+| [A07 — AI & Blockchain](./AIApplications_ITAI2372/Industry-Reports/A07_ClassNotes_Blockchain_Integration_Medina.docx) | Full history, architecture, and consensus mechanisms · AI-in-blockchain integration · future of autonomous finance |
 | [A08 — AI in Retail](./AIApplications_ITAI2372/Industry-Reports/A08_ClassNotes_AIRetail_Medina.docx) | Computer vision · conversational AI · AI search intent |
 
 > 📁 [View full AI Applications course folder](./AIApplications_ITAI2372/)
